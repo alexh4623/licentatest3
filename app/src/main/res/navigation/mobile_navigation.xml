@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.licentatest3.fragments.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_map"/>
+
+    <fragment
+        android:id="@+id/traseu_e1"
+        android:name="com.example.licentatest3.fragments.E1Fragment"
+        android:label="E1"
+        tools:layout="@layout/fragment_e1" />
+
+    <fragment
+        android:id="@+id/traseu_x1"
+        android:name="com.example.licentatest3.fragments.x1Fragment"
+        android:label="1"
+        tools:layout="@layout/fragment_x1" />
+
+    <fragment
+        android:id="@+id/traseu_b2"
+        android:name="com.example.licentatest3.fragments.b2Fragment"
+        android:label="2B"
+        tools:layout="@layout/fragment_b2" />
+
+    <fragment
+        android:id="@+id/traseu_b3"
+        android:name="com.example.licentatest3.fragments.b3Fragment"
+        android:label="3B"
+        tools:layout="@layout/fragment_b3" />
+
+    <fragment
+        android:id="@+id/traseu_x4"
+        android:name="com.example.licentatest3.fragments.x4Fragment"
+        android:label="4"
+        tools:layout="@layout/fragment_x4" />
+
+    <fragment
+        android:id="@+id/traseu_b5"
+        android:name="com.example.licentatest3.fragments.b5Fragment"
+        android:label="5"
+        tools:layout="@layout/fragment_b5" />
+    <fragment
+        android:id="@+id/traseu_x9"
+        android:name="com.example.licentatest3.fragments.x9Fragment"
+        android:label="9"
+        tools:layout="@layout/fragment_x9" />
+    <fragment
+        android:id="@+id/traseu_x11"
+        android:name="com.example.licentatest3.fragments.x11Fragment"
+        android:label="11"
+        tools:layout="@layout/fragment_x11" />
+    <fragment
+        android:id="@+id/traseu_x10"
+        android:name="com.example.licentatest3.fragments.x10Fragment"
+        android:label="10"
+        tools:layout="@layout/fragment_x10" />
+    <fragment
+        android:id="@+id/traseu_x13"
+        android:name="com.example.licentatest3.fragments.x13Fragment"
+        android:label="13"
+        tools:layout="@layout/fragment_x13" />
+    <fragment
+        android:id="@+id/traseu_b17"
+        android:name="com.example.licentatest3.fragments.b17Fragment"
+        android:label="17b"
+        tools:layout="@layout/fragment_b17" />
+    <fragment
+        android:id="@+id/traseu_x20"
+        android:name="com.example.licentatest3.fragments.x20Fragment"
+        android:label="20"
+        tools:layout="@layout/fragment_x20" />
+    <fragment
+        android:id="@+id/traseu_b23"
+        android:name="com.example.licentatest3.fragments.b23Fragment"
+        android:label="23b"
+        tools:layout="@layout/fragment_b23" />
+    <fragment
+        android:id="@+id/traseu_x24"
+        android:name="com.example.licentatest3.fragments.x24Fragment"
+        android:label="24"
+        tools:layout="@layout/fragment_x24" />
+    <fragment
+        android:id="@+id/traseu_x25"
+        android:name="com.example.licentatest3.fragments.x25Fragment"
+        android:label="25"
+        tools:layout="@layout/fragment_x25" />
+    <fragment
+        android:id="@+id/traseu_b29"
+        android:name="com.example.licentatest3.fragments.b29Fragment"
+        android:label="29b"
+        tools:layout="@layout/fragment_b29" />
+    <fragment
+        android:id="@+id/traseu_tramvai"
+        android:name="com.example.licentatest3.fragments.tramvaiFragment"
+        android:label="Tramvai"
+        tools:layout="@layout/fragment_tramvai" />
+</navigation>

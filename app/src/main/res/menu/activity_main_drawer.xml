@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/traseu_e1"
+            android:icon="@drawable/e1"
+            android:title="E1" />
+        <item
+            android:id="@+id/traseu_x1"
+            android:icon="@drawable/x1"
+            android:title="1" />
+        <item
+            android:id="@+id/traseu_b2"
+            android:icon="@drawable/b2"
+            android:title="2B" />
+        <item
+            android:id="@+id/traseu_b3"
+            android:icon="@drawable/b3"
+            android:title="3B" />
+        <item
+            android:id="@+id/traseu_x4"
+            android:icon="@drawable/x4"
+            android:title="4"/>
+        <item
+            android:id="@+id/traseu_b5"
+            android:icon="@drawable/b5"
+            android:title="5B"/>
+        <item
+            android:id="@+id/traseu_x9"
+            android:icon="@drawable/x9"
+            android:title="9"/>
+        <item
+            android:id="@+id/traseu_x10"
+            android:icon="@drawable/x10"
+            android:title="10"/>
+        <item
+            android:id="@+id/traseu_x11"
+            android:icon="@drawable/x11"
+            android:title="11"/>
+        <item
+            android:id="@+id/traseu_x13"
+            android:icon="@drawable/x13"
+            android:title="13"/>
+        <item
+            android:id="@+id/traseu_b17"
+            android:icon="@drawable/b17"
+            android:title="17B"/>
+        <item
+            android:id="@+id/traseu_x20"
+            android:icon="@drawable/x20"
+            android:title="20"/>
+        <item
+            android:id="@+id/traseu_b23"
+            android:icon="@drawable/b23"
+            android:title="23B"/>
+
+        <item
+            android:id="@+id/traseu_x24"
+            android:icon="@drawable/x24"
+            android:title="24"/>
+        <item
+            android:id="@+id/traseu_x25"
+            android:icon="@drawable/x25"
+            android:title="25"/>
+        <item
+            android:id="@+id/traseu_b29"
+            android:icon="@drawable/b29"
+            android:title="29B"/>
+        <item
+            android:id="@+id/traseu_tramvai"
+            android:icon="@drawable/tramvai"
+            android:title="Tramvai"/>
+
+    </group>
+
+</menu>

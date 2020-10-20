@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037112662413",
+    "firebase_url": "https://licentatest3-21202.firebaseio.com/",
+    "project_id": "licentatest3-21202",
+    "storage_bucket": "licentatest3-21202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037112662413:android:a386bb151d4cd0f9fcc5c4",
+        "android_client_info": {
+          "package_name": "com.example.licentatest3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037112662413-pp0dkdeun7bpinbk71i9ljbulvk5691n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZYTJ4oepeJPg3L8vfW5plIK5a_6m9JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037112662413-pp0dkdeun7bpinbk71i9ljbulvk5691n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
